@@ -1,0 +1,1 @@
+# EverestMedia.Autofac.Core.Abstractions
