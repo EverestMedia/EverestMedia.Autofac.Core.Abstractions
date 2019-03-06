@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Everest Media Ltd</Authors>
+    <Company>Everest Media Ltd</Company>
+    <PackageTags>autofac abstractions</PackageTags>
+    <PackageProjectUrl>https://github.com/EverestMedia</PackageProjectUrl>
+    <PackageLicenseFile>LICENSE</PackageLicenseFile>
+    <Description>Autofac helper abstractions</Description>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <title>Everest Media Autofac Abstractions</title>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>
